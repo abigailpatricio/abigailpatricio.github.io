@@ -10,7 +10,7 @@ Camera Effects
 
 This is my Camera Effects Project
 
+![Abigail](https://github.com/abigailpatricio/abigailpatricio.github.io/blob/master/abigail's%20snipping.PNG?raw=true "Optional Title")
 
-https://github.com/abigailpatricio/abigailpatricio.github.io/blob/master/abigail's%20snipping.PNG
 
 ***
