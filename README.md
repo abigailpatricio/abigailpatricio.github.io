@@ -1,4 +1,4 @@
-###360
+### 360
 
 This is my 360 project.
 
@@ -12,5 +12,5 @@ This is my Camera Effects Project
 
 ![abigail's snipping](https://github.com/abigailpatricio/abigailpatricio.github.io/blob/master/abigail's%20snipping.PNG?raw=true "Optional Title")
 
-
 ***
+
