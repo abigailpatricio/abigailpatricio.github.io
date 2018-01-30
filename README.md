@@ -6,7 +6,7 @@ This is my 360 project.
 
 ***
 
-Camera Effects
+### Camera Effects
 
 This is my Camera Effects Project
 
@@ -14,7 +14,7 @@ This is my Camera Effects Project
 
 ***
 
-Storyscape
+### Storyscape
 
 This is my Storyscape Project.
 
